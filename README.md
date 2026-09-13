@@ -137,16 +137,3 @@ Entre os principais resultados encontrados, destacam-se:
 
 ---
 
-## Estrutura do repositório
-
-```text
-projeto-state-of-data/
-│
-├── notebooks/
-│   ├── Tech_Challenge_State_of_Data.ipynb
-│   └── Funcoes_Fase3.py
-│
-├── diagrama/
-│   └── arquitetura_aws.png
-│
-├── README.md
